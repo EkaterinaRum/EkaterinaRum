@@ -1,6 +1,5 @@
-Hi! I’m Kate. I'm learning python and love to explore new ways of seeing the world.
+Hi! I’m Kate. I'm learning python and data analysis and love to explore new ways of seeing the world.
 
-Love philosophy, psychology, extreme sports.
 
 <!---
 EkaterinaRum/EkaterinaRum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
